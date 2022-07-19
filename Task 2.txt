@@ -1,0 +1,19 @@
+1.Differece between document object and window object.
+ Document Object:-
+    The document object represent a web page that is loaded in the browser.
+    Document object helps to add dynamic content to our web page.
+    Document is part of BOM and DOM.
+    Syntax for properties is document.property_name;
+    They can be accessed with window.document or document.
+    Syntax for methods of document is document.method_name;
+    Some of the methods of document are, adoptNode(),createEvent(),getElementById(),hasFocus(),etc.
+Window Object:-
+    The window object is the topmost object of the DOM hierarchy.
+    Whenever a window appears one the screen to display the content of the document,the wimdow object is created.
+    Syntax for properties is window.property_name;
+    Some of the property are fullScreen,innerHeight,innerWidth,Name etc.
+    Syntax for method is windows.method_name;
+    Some of the methods of window are blur(),confirm(),focus(),moveBy(),stop() etc.
+
+    
+                                   
